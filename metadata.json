@@ -1,0 +1,6 @@
+{
+  "name": "Naya Mahi",
+  "description": "Voice-first AI assistant by Ajay AI inspired by Maya. Full android phone control, 350+ tools, live smiling anime companion, and ultra-smooth sweet female voice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
